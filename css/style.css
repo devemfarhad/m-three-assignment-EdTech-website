@@ -66,10 +66,6 @@ body {
     font-weight: 600;
 }
 
-.edu-carousel-caption p {}
-
-.edu-carousel-caption button {}
-
 .faq-question:not(.collapsed) {
     color: #4A4A4A;
     background-color: rgba(40, 155, 222, 0.1);
